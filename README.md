@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Space to track my progress over the [Ruby on Rails crash course 2020](https://www.youtube.com/watch?v=B3Fbujmgo60) by Andy ([this is his YouTube channel](https://www.youtube.com/user/webcrunchblog)) 
 
-Things you may want to cover:
+* Ruby version: 3.0.0
 
-* Ruby version
+* Rails version: 6.1.1
 
 * System dependencies
 
