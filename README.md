@@ -20,4 +20,8 @@ Space to track my progress over the [Ruby on Rails crash course 2020](https://ww
 
 * Deployment instructions
 
-* ...
+## Other useful info  
+As a beginner with Ruby on Rails, I have also found useful the following links for further details.  
+  
+  * [Model generator description](https://github.com/rails/rails/blob/main/railties/lib/rails/generators/rails/model/USAGE)  
+  
