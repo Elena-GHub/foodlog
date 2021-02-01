@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "rake",
+			"task": "webpacker:clobber",
+			"problemMatcher": [
+				"$jshint-stylish"
+			],
+			"group": "build",
+			"label": "rake: webpacker:clobber"
+		}
+	]
+}
