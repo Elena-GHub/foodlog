@@ -20,8 +20,8 @@ Space to track my progress over the [Ruby on Rails crash course 2020](https://ww
 
 * Deployment instructions
 
-## Other useful info  
+## Notes and other useful info  
 As a beginner with Ruby on Rails, I have also found useful the following links for further details.  
   
   * [Model generator description](https://github.com/rails/rails/blob/main/railties/lib/rails/generators/rails/model/USAGE)  
-  
+  * About the **cuttlery svg icon** in the header: I am running Linux, and the Nucleo app Andy mentions at minute 59:20 is only available for Windows and Mac. I supposed Bulma would support **Font Awesome** icons and it turns out it does. So I used one of these icons instead in the header, which also entailed adding this line `<script src='https://kit.fontawesome.com/a076d05399.js'></script>` within the head section in `application.html.erb`.
