@@ -4,6 +4,6 @@ class Entry < ApplicationRecord
         message: "only allows letters" }
 
     def day
-        self.created_at.strftime("%b %e, %Y")
+        self.created_at.strftime("%b %d, %Y")
     end
 end
