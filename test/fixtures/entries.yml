@@ -8,14 +8,14 @@ breakfast:
   fats: 5
 
 lunch:
-  meal_type: "Lunch"
+  meal_type: "lunch"
   calories: 700
   proteins: 12
   carbohydrates: 140
   fats: 2
 
 dinner:
-  meal_type: "Dinner"
+  meal_type: "dinner"
   calories: 600
   proteins: 12
   carbohydrates: 40
